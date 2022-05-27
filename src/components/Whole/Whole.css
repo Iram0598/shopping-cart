@@ -1,0 +1,14 @@
+.shop{
+    display: flex;
+    
+    background-color: #191919;
+}
+
+.cart{
+    color: aliceblue;
+}
+
+.course-container{
+    width: 70%;
+    border-right: 1px solid lightgray;
+}
